@@ -1,0 +1,2 @@
+ofxGifDecoder
+ofxOpenCv
